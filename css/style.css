@@ -22,3 +22,17 @@ h1 {
 .sub-title{
     font-weight: bold;
 }
+figcaption{
+    font-size: .85rem;
+    text-align: center;
+    color: #757575;
+   font-style: italic;
+}
+a {
+    color: black;
+    text-decoration: underline;    
+}
+a:hover{
+    text-decoration: none;
+    color: #ff3530;
+}
