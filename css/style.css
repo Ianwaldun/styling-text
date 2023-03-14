@@ -14,3 +14,11 @@ figcaption, .artical-catogory, .sub-title, .author, time{
     border-bottom: 2px solid #ff3530;
     display: inline;
 }
+h1 {
+    font-size: 2.5rem;
+    line-height: 1.3;
+    margin: 1ren 0;
+}
+.sub-title{
+    font-weight: bold;
+}
